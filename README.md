@@ -10,6 +10,8 @@ The intention is to be able to run this alongside old footage of motorsport race
 
 Currently it is mostly a proof-of-concept. Only one vehicle is supported. However it is pretty cool and flexible for a very simple piece of code, and could even be expanded into a motorsport manager game.
 
+![Screenshot of output](https://raw.githubusercontent.com/RyanBabij/Race-Visualiser/refs/heads/main/sample%20output.jpg)
+
 ## Features
 
 * **Custom track** via coordinates file (supports any shape)
